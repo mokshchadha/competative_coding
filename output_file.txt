@@ -1,2 +1,1 @@
-pivot 3
-2
+root 3.
