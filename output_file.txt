@@ -1,1 +1,9 @@
-7
+AD
+AE
+AF
+BD
+BE
+BF
+CD
+CE
+CF
